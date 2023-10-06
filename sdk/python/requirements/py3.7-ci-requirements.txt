@@ -38,7 +38,7 @@ attrs==21.4.0
     #   black
     #   jsonschema
     #   pytest
-avro==1.10.0
+avro==1.11.3
     # via feast (setup.py)
 azure-core==1.21.1
     # via
