@@ -527,7 +527,7 @@ tomli==2.0.0
     #   coverage
     #   mypy
     #   pep517
-tqdm==4.62.3
+tqdm==4.66.3
     # via feast (setup.py)
 typed-ast==1.5.1
     # via black
