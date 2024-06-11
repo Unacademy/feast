@@ -265,7 +265,7 @@ mock==2.0.0
     # via feast (setup.py)
 moto==3.0.0
     # via feast (setup.py)
-msal==1.16.0
+msal==1.28.0
     # via
     #   azure-identity
     #   msal-extensions
