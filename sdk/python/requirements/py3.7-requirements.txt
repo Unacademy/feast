@@ -159,7 +159,7 @@ watchgod==0.7
     # via uvicorn
 websockets==10.1
     # via uvicorn
-zipp==3.7.0
+zipp==3.19.1
     # via
     #   importlib-metadata
     #   importlib-resources
