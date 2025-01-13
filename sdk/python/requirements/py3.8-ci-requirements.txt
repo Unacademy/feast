@@ -576,7 +576,7 @@ uvicorn[standard]==0.17.0
     # via feast (setup.py)
 uvloop==0.16.0
     # via uvicorn
-virtualenv==20.13.0
+virtualenv==20.26.6
     # via pre-commit
 watchgod==0.7
     # via uvicorn
