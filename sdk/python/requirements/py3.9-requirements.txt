@@ -47,7 +47,7 @@ grpcio==1.43.0
     #   grpcio-reflection
 grpcio-reflection==1.43.0
     # via feast (setup.py)
-h11==0.13.0
+h11==0.16.0
     # via uvicorn
 httptools==0.3.0
     # via uvicorn
