@@ -127,7 +127,7 @@ fastavro==1.4.9
     # via
     #   feast (setup.py)
     #   pandavro
-filelock==3.4.2
+filelock==3.20.3
     # via virtualenv
 firebase-admin==4.5.2
     # via feast (setup.py)
