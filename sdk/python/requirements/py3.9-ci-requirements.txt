@@ -338,7 +338,7 @@ proto-plus==1.19.6
     #   google-cloud-bigquery-storage
     #   google-cloud-datastore
     #   google-cloud-firestore
-protobuf==3.19.3
+protobuf==7.34.0rc1
     # via
     #   feast (setup.py)
     #   google-api-core
