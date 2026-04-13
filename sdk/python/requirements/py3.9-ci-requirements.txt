@@ -386,7 +386,7 @@ pyparsing==3.0.7
     #   packaging
 pyrsistent==0.18.1
     # via jsonschema
-pytest==6.2.5
+pytest==9.0.3
     # via
     #   feast (setup.py)
     #   pytest-benchmark
