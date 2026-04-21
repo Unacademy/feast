@@ -436,7 +436,7 @@ python-dateutil==2.8.2
     #   google-cloud-bigquery
     #   moto
     #   pandas
-python-dotenv==0.19.2
+python-dotenv==1.2.2
     # via uvicorn
 pytz==2021.3
     # via
