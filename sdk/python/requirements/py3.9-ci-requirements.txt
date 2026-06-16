@@ -376,7 +376,7 @@ pyflakes==2.4.0
     # via flake8
 pygments==2.11.2
     # via sphinx
-pyjwt[crypto]==2.3.0
+pyjwt[crypto]==2.13.0
     # via
     #   adal
     #   msal
