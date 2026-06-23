@@ -273,7 +273,7 @@ msal==1.16.0
     #   msal-extensions
 msal-extensions==0.3.1
     # via azure-identity
-msgpack==1.0.3
+msgpack==1.2.1
     # via cachecontrol
 msrest==0.6.21
     # via
