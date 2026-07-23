@@ -86,7 +86,7 @@ protobuf==3.19.3
     #   tensorflow-metadata
 pyarrow==6.0.1
     # via feast (setup.py)
-pyasn1==0.4.8
+pyasn1==0.6.4
     # via
     #   pyasn1-modules
     #   rsa
