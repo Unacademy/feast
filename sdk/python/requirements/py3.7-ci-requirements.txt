@@ -217,7 +217,7 @@ h11==0.13.0
     # via uvicorn
 hiredis==2.0.0
     # via feast (setup.py)
-httplib2==0.20.2
+httplib2==0.32.0
     # via
     #   google-api-python-client
     #   google-auth-httplib2
